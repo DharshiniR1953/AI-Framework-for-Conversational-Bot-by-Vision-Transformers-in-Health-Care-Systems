@@ -1,0 +1,1 @@
+An automated system that employs machine learning algorithms for the identification of medicinal plants based on images and, concurrently, integrates a chatbot interface to address user queries related to the plants. The system offers a seamless and informative experience for users seeking reliable information on the identification, properties, and uses of medicinal plants.
