@@ -1,6 +1,31 @@
-This project presents an automated system that utilizes machine learning algorithms to identify medicinal plants from images. It also integrates a chatbot interface to address user queries related to the identified plants, providing a seamless and informative experience for users seeking reliable information on the identification, properties, and uses of medicinal plants.
+# 🌿 AI Framework for Conversational Bot Using Vision Transformers in Healthcare 🌿
 
-**Features**                          
-      1. **Image-Based Plant Identification:** Upload an image of a plant, and the system will analyze it to identify the species and provide relevant information.       
-    2. **Chatbot Interface:** Engage with a chatbot to ask questions about medicinal plants, their properties, uses, and other related information.      
-    3. **Comprehensive Plant Database:** Access detailed information on a wide range of medicinal plants, including their scientific names, common names, medicinal properties, and applications.
+📌 Published Paper: A Data-Driven AI Framework for Conversational Bot by Vision Transformers in Health Care Systems | SpringerLink
+
+**Link :** https://link.springer.com/chapter/10.1007/978-3-031-61471-2_4
+
+## 🚀 Overview
+
+This project presents an AI-powered system that utilizes Vision Transformers to identify medicinal plants from images and integrates a chatbot to provide users with information about the identified plants. The system offers a seamless and informative experience for users seeking reliable data on medicinal plant identification, properties, and applications.
+
+## ✨ Key Features
+
+**✅ 🔍 Image-Based Plant Identification**
+
+Upload an image of a plant, and the AI model analyzes it to identify the species and provide relevant details.
+
+**✅ 💬 Intelligent Chatbot Interface**
+
+Engage with a conversational AI bot to ask questions about medicinal plants, their properties, uses, and benefits.
+
+**✅ 📚 Comprehensive Medicinal Plant Database**
+
+Access detailed scientific and common names, medicinal properties, and applications of various plants.
+
+**✅ 🧠 Vision Transformers for Enhanced Accuracy**
+
+Utilizes state-of-the-art deep learning algorithms for precise plant recognition and information retrieval.
+
+**✅ 🌱 Healthcare & Herbal Medicine Integration**
+
+Supports traditional and modern healthcare applications, aiding in herbal medicine research.
